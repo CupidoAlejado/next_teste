@@ -1,5 +1,13 @@
-export default function Home(){
-  return <>
-  componente do billooy
-  </>
+import Container from 'react-bootstrap/Container';
+import Row from 'react-bootstrap/Row';
+import Col from 'react-bootstrap/Col';
+
+export default function Home() {
+  return (
+    <Container>
+      <Row>
+        <Col>Inicial hehehe</Col>
+      </Row>
+    </Container>
+  );
 }
