@@ -6,7 +6,7 @@ export default function Esportes() {
   return (
     <Container>
       <Row>
-        <Col>Esportes hehehe</Col>
+        <Col>Bem Vindo aos esportes</Col>
       </Row>
     </Container>
   );

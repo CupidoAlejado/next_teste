@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <Container>
       <Row>
-        <Col>Inicial hehehe</Col>
+        <Col>Bem Vindo a FW</Col>
       </Row>
     </Container>
   );
